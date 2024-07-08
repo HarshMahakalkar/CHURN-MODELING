@@ -12,3 +12,4 @@ Model Training: The selected model is trained on historical data where the churn
 Model Evaluation: After training, the model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score. The model should be tested on a separate dataset (validation set or test set) to ensure it generalizes well to new, unseen data.
 
 Bank churn modeling is a dynamic field where advanced analytics techniques are continually evolving to improve prediction accuracy and enhance customer retention efforts. It combines data science with domain knowledge of banking to address a critical business challenge faced by financial institutions.
+
